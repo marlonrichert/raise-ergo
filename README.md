@@ -8,10 +8,11 @@ command line.
 * Reduces stress on your pinkies by moving many keys away from them and instead to your thumbs.
 * Reduces discomfort from awkward key combinations by putting the modifier keys under your thumbs
   and having dedicated keys for skipping/deleting words and lines.
-* Reduces hand movement and increases data entry speed by having tab and enter under your thumbs,
-  plus deletion and cursor movement keys under your finger tips (activated by your thumbs).
-* Increases typing speed (especially when programming) by having all word separators (space, hypen,
-  underscore, apostrophe) under your thumbs.
+* Reduces hand movement and increases data entry speed by having <kbd>tab</kbd> and
+  <kbd>enter</kbd> under your thumbs, plus deletion and cursor movement keys under your finger tips (activated by your thumbs).
+* Decreases finger travel and increases typing speed (especially when programming) by having all
+  word separators (<kbd>space</kbd>, <kbd>hypen</kbd>, <kbd>underscore</kbd>) and quotation marks
+  under your thumbs.
 
 ## Layers
 
