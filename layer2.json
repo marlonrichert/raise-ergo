@@ -115,9 +115,10 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 75,
-      "label": "PAGE UP",
-      "verbose": "Page Up"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 592,
@@ -293,27 +294,24 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 78,
-      "label": "PAGE DOWN",
-      "verbose": "Page Down"
+      "keyCode": 4178,
+      "label": "↑",
+      "extraLabel": "G+"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 594,
+      "label": "↑",
+      "extraLabel": "A+"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 593,
+      "label": "↓",
+      "extraLabel": "A+"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 4177,
+      "label": "↓",
+      "extraLabel": "G+"
     },
     {
       "keyCode": 65535,
@@ -471,19 +469,19 @@
     1,
     1,
     1,
+    15,
+    15,
+    15,
+    1,
+    1,
+    1,
+    1,
+    1,
+    15,
+    15,
     6,
-    15,
-    15,
-    1,
-    1,
-    1,
-    1,
-    1,
-    15,
-    15,
-    15,
-    15,
-    15,
+    6,
+    6,
     6,
     15,
     15,
