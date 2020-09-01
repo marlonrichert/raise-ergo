@@ -132,9 +132,8 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 105,
+      "label": "F14"
     },
     {
       "keyCode": 0,
@@ -207,9 +206,8 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 106,
+      "label": "F15"
     },
     {
       "keyCode": 49,
@@ -402,26 +400,26 @@
     4,
     4,
     15,
-    15,
-    15,
-    4,
-    1,
-    1,
-    1,
-    4,
-    15,
-    15,
-    1,
-    1,
-    1,
-    1,
-    1,
+    5,
     15,
     4,
+    1,
+    1,
+    1,
     4,
+    5,
+    15,
+    1,
+    1,
+    1,
+    1,
+    1,
+    15,
     4,
-    4,
-    4,
+    6,
+    6,
+    6,
+    6,
     2,
     5,
     15,

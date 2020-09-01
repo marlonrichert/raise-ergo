@@ -181,10 +181,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 65535,
@@ -283,10 +282,9 @@
       "verbose": "AltGr"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 70,
+      "label": "PRINT SCREEN",
+      "verbose": "Print Screen"
     },
     {
       "keyCode": 65535,
@@ -519,7 +517,7 @@
     1,
     1,
     4,
-    15,
+    5,
     2,
     1,
     1,
@@ -528,10 +526,10 @@
     1,
     15,
     4,
-    4,
-    4,
-    4,
-    4,
+    6,
+    6,
+    6,
+    6,
     3,
     5,
     15,

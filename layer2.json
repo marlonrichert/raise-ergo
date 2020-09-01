@@ -65,10 +65,8 @@
       "label": "F12"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 104,
+      "label": "F13"
     },
     {
       "keyCode": 65535,
@@ -147,10 +145,8 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 105,
+      "label": "F14"
     },
     {
       "keyCode": 65535,
@@ -233,10 +229,8 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 106,
+      "label": "F15"
     },
     {
       "keyCode": 65535,
@@ -455,22 +449,22 @@
     15,
     15,
     15,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
     15,
     5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    15,
-    15,
     15,
     15,
     1,
     1,
     1,
     15,
-    15,
+    5,
     15,
     1,
     1,
