@@ -593,21 +593,21 @@
         </tspan>
       </text><text id="R3C12_t_primary" fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan class="letter-config" text-anchor="middle" x="665" y="228.5">↓</tspan>
+          <tspan text-anchor="middle" x="665" y="218.5" dy="0">PAGE</tspan>
         </tspan>
-      </text><text id="R3C12_t_extra" fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="665" y="209">A+</tspan>
+          <tspan text-anchor="middle" x="665" y="218.5" dy="1.5em">DOWN</tspan>
         </tspan>
-      </text><text id="R3C11_t_primary" fill="rgba(0, 0, 0, 0.87)">
+      </text><text id="R3C12_t_extra" fill="rgba(0, 0, 0, 0.87)"></text><text id="R3C11_t_primary"
+        fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan class="letter-config" text-anchor="middle" x="605" y="228.5">↑</tspan>
+          <tspan text-anchor="middle" x="605" y="218.5" dy="0">PAGE</tspan>
         </tspan>
-      </text><text id="R3C11_t_extra" fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="605" y="209">A+</tspan>
+          <tspan text-anchor="middle" x="605" y="218.5" dy="1.5em">UP</tspan>
         </tspan>
-      </text><text id="R3C10_t_primary" fill="rgba(0, 0, 0, 0.87)">
+      </text><text id="R3C11_t_extra" fill="rgba(0, 0, 0, 0.87)"></text><text id="R3C10_t_primary"
+        fill="rgba(0, 0, 0, 0.87)">
         <tspan>
           <tspan class="letter-config" text-anchor="middle" x="549" y="228.5">↑</tspan>
         </tspan>

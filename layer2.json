@@ -293,14 +293,14 @@
       "extraLabel": "G+"
     },
     {
-      "keyCode": 594,
-      "label": "↑",
-      "extraLabel": "A+"
+      "keyCode": 75,
+      "label": "PAGE UP",
+      "verbose": "Page Up"
     },
     {
-      "keyCode": 593,
-      "label": "↓",
-      "extraLabel": "A+"
+      "keyCode": 78,
+      "label": "PAGE DOWN",
+      "verbose": "Page Down"
     },
     {
       "keyCode": 4177,
