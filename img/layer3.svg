@@ -60,7 +60,7 @@
       data-key-index="66" data-layer="3"
       d="M207.7,263.2c0-2.9,2.4-5.3,5.3-5.3h55.7c2.9,0,5.3,2.4,5.3,5.3v40.7 c0,2.9-2.4,5.3-5.3,5.3H213c-2.9,0-5.3-2.4-5.3-5.3V263.2z">
     </path>
-    <path id="R4C1_keyshape" class="key" fill="rgb(0, 0, 0)" stroke="#b3b3b3" stroke-width="1.5" data-led-index="27"
+    <path id="R4C1_keyshape" class="key" fill="rgb(0, 0, 0)" stroke="#202020" stroke-width="3.0" data-led-index="27"
       data-key-index="65" data-layer="3"
       d="M132.7,263.2c0-2.9,2.4-5.3,5.3-5.3h55.7c2.9,0,5.3,2.4,5.3,5.3v40.7 c0,2.9-2.4,5.3-5.3,5.3H138c-2.9,0-5.3-2.4-5.3-5.3V263.2z">
     </path>
@@ -276,7 +276,7 @@
       data-led-index="1" data-key-index="1" data-layer="3"
       d="M116,24.8L116,24.8c0-2.9,2.4-5.3,5.3-5.3H162c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.8c-2.9,0-5.3-2.4-5.3-5.3L116,24.8L116,24.8z">
     </path>
-    <path id="R0C0_keyshape" class="key" fill="rgb(0, 0, 0)" stroke="#202020" stroke-width="3.0" data-led-index="0"
+    <path id="R0C0_keyshape" class="key" fill="rgb(0, 0, 0)" stroke="#b3b3b3" stroke-width="1.5" data-led-index="0"
       data-key-index="0" data-layer="3"
       d="M57.1,24.8L57.1,24.8c0-2.9,2.4-5.3,5.3-5.3h40.7c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3H62.3c-2.9,0-5.3-2.4-5.3-5.3L57.1,24.8L57.1,24.8z">
     </path>
@@ -591,17 +591,23 @@
         <tspan>
           <tspan text-anchor="middle" x="724" y="209">C+</tspan>
         </tspan>
-      </text><text id="R3C12_t_primary" fill="rgba(0, 0, 0, 0.87)"></text><text id="R3C12_t_extra"
+      </text><text id="R3C12_t_primary" fill="rgba(0, 0, 0, 0.87)">
+        <tspan>
+          <tspan text-anchor="middle" x="665" y="218.5" dy="0">PAGE</tspan>
+        </tspan>
+        <tspan>
+          <tspan text-anchor="middle" x="665" y="218.5" dy="1.5em">DOWN</tspan>
+        </tspan>
+      </text><text id="R3C12_t_extra" fill="rgba(0, 0, 0, 0.87)"></text><text id="R3C11_t_primary"
         fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="665" y="209">TRANS</tspan>
+          <tspan text-anchor="middle" x="605" y="218.5" dy="0">PAGE</tspan>
         </tspan>
-      </text><text id="R3C11_t_primary" fill="rgba(0, 0, 0, 0.87)"></text><text id="R3C11_t_extra"
-        fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="605" y="209">TRANS</tspan>
+          <tspan text-anchor="middle" x="605" y="218.5" dy="1.5em">UP</tspan>
         </tspan>
-      </text><text id="R3C10_t_primary" fill="rgba(0, 0, 0, 0.87)">
+      </text><text id="R3C11_t_extra" fill="rgba(0, 0, 0, 0.87)"></text><text id="R3C10_t_primary"
+        fill="rgba(0, 0, 0, 0.87)">
         <tspan>
           <tspan text-anchor="middle" x="549" y="228.5">HOME</tspan>
         </tspan>
@@ -633,12 +639,12 @@
         <tspan>
           <tspan text-anchor="middle" x="115" y="209">TRANS</tspan>
         </tspan>
-      </text><text id="R2C15_t_primary" fill="rgba(0, 0, 0, 0.87)"></text><text id="R2C15_t_extra"
-        fill="rgba(0, 0, 0, 0.87)">
+      </text><text id="R2C15_t_primary" fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="930" y="90">TRANS</tspan>
+          <tspan text-anchor="middle" x="930" y="110">F14</tspan>
         </tspan>
-      </text><text id="R2C14_t_primary" fill="#fff"></text><text id="R2C14_t_extra" fill="#fff">
+      </text><text id="R2C15_t_extra" fill="rgba(0, 0, 0, 0.87)"></text><text id="R2C14_t_primary"
+        fill="#fff"></text><text id="R2C14_t_extra" fill="#fff">
         <tspan>
           <tspan text-anchor="middle" x="828" y="149">TRANS</tspan>
         </tspan>
@@ -646,20 +652,19 @@
         <tspan>
           <tspan text-anchor="middle" x="771" y="169">END</tspan>
         </tspan>
-      </text><text id="R2C13_t_extra" fill="#fff"></text><text id="R2C12_t_primary" fill="#fff"></text><text
-        id="R2C12_t_extra" fill="#fff">
+      </text><text id="R2C13_t_extra" fill="#fff"></text><text id="R2C12_t_primary" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="712" y="149">TRANS</tspan>
+          <tspan class="letter-config" text-anchor="middle" x="712" y="169">→</tspan>
         </tspan>
-      </text><text id="R2C11_t_primary" fill="#fff"></text><text id="R2C11_t_extra" fill="#fff">
+      </text><text id="R2C12_t_extra" fill="#fff"></text><text id="R2C11_t_primary" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="654" y="149">TRANS</tspan>
+          <tspan class="letter-config" text-anchor="middle" x="654" y="169">↓</tspan>
         </tspan>
-      </text><text id="R2C10_t_primary" fill="#fff"></text><text id="R2C10_t_extra" fill="#fff">
+      </text><text id="R2C11_t_extra" fill="#fff"></text><text id="R2C10_t_primary" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="594" y="149">TRANS</tspan>
+          <tspan class="letter-config" text-anchor="middle" x="594" y="169">←</tspan>
         </tspan>
-      </text><text id="R2C9_t_primary" fill="#fff">
+      </text><text id="R2C10_t_extra" fill="#fff"></text><text id="R2C9_t_primary" fill="#fff">
         <tspan>
           <tspan text-anchor="middle" x="535" y="169">HOME</tspan>
         </tspan>
@@ -671,15 +676,20 @@
         <tspan>
           <tspan text-anchor="middle" x="413" y="149">S+</tspan>
         </tspan>
-      </text><text id="R2C4_t_primary" fill="#fff"></text><text id="R2C4_t_extra" fill="#fff">
+      </text><text id="R2C4_t_primary" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="355" y="149">TRANS</tspan>
+          <tspan text-anchor="middle" x="355" y="169">DEL</tspan>
         </tspan>
-      </text><text id="R2C3_t_primary" fill="#fff"></text><text id="R2C3_t_extra" fill="#fff">
+      </text><text id="R2C4_t_extra" fill="#fff"></text><text id="R2C3_t_primary" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="297" y="149">TRANS</tspan>
+          <tspan>
+            <tspan text-anchor="middle" x="297" y="159" dy="0">BACK</tspan>
+          </tspan>
+          <tspan>
+            <tspan text-anchor="middle" x="297" y="159" dy="1.5em">SPACE</tspan>
+          </tspan>
         </tspan>
-      </text><text id="R2C2_t_primary" fill="rgba(0, 0, 0, 0.87)">
+      </text><text id="R2C3_t_extra" fill="#fff"></text><text id="R2C2_t_primary" fill="rgba(0, 0, 0, 0.87)">
         <tspan>
           <tspan text-anchor="middle" x="238" y="169">HOME</tspan>
         </tspan>
@@ -720,11 +730,11 @@
         <tspan>
           <tspan text-anchor="middle" x="688" y="90">C+</tspan>
         </tspan>
-      </text><text id="R1C10_t_primary" fill="#fff"></text><text id="R1C10_t_extra" fill="#fff">
+      </text><text id="R1C10_t_primary" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="630" y="90">TRANS</tspan>
+          <tspan class="letter-config" text-anchor="middle" x="630" y="109.5">↑</tspan>
         </tspan>
-      </text><text id="R1C9_t_primary" fill="#fff">
+      </text><text id="R1C10_t_extra" fill="#fff"></text><text id="R1C9_t_primary" fill="#fff">
         <tspan>
           <tspan class="letter-config" text-anchor="middle" x="574" y="109.5">←</tspan>
         </tspan>
@@ -773,72 +783,72 @@
         <tspan>
           <tspan text-anchor="middle" x="100" y="90">TRANS</tspan>
         </tspan>
-      </text><text id="R0C15_t_primary" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C15_t_extra"
+      </text><text id="R0C15_t_primary" fill="rgba(0, 0, 0, 0.87)">
+        <tspan>
+          <tspan text-anchor="middle" x="915" y="50">F12</tspan>
+        </tspan>
+      </text><text id="R0C15_t_extra" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C14_t_primary"
         fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="915" y="30">TRANS</tspan>
+          <tspan text-anchor="middle" x="828" y="50">F11</tspan>
         </tspan>
-      </text><text id="R0C14_t_primary" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C14_t_extra"
+      </text><text id="R0C14_t_extra" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C13_t_primary"
         fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="828" y="30">TRANS</tspan>
+          <tspan text-anchor="middle" x="769" y="50">F10</tspan>
         </tspan>
-      </text><text id="R0C13_t_primary" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C13_t_extra"
+      </text><text id="R0C13_t_extra" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C12_t_primary"
         fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="769" y="30">TRANS</tspan>
+          <tspan text-anchor="middle" x="711" y="50">F9</tspan>
         </tspan>
-      </text><text id="R0C12_t_primary" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C12_t_extra"
+      </text><text id="R0C12_t_extra" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C11_t_primary"
         fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="711" y="30">TRANS</tspan>
+          <tspan text-anchor="middle" x="652" y="50">F8</tspan>
         </tspan>
-      </text><text id="R0C11_t_primary" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C11_t_extra"
+      </text><text id="R0C11_t_extra" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C10_t_primary"
         fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="652" y="30">TRANS</tspan>
+          <tspan text-anchor="middle" x="593" y="50">F7</tspan>
         </tspan>
-      </text><text id="R0C10_t_primary" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C10_t_extra"
+      </text><text id="R0C10_t_extra" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C9_t_primary"
         fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="593" y="30">TRANS</tspan>
+          <tspan text-anchor="middle" x="534" y="50">F6</tspan>
         </tspan>
-      </text><text id="R0C9_t_primary" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C9_t_extra"
+      </text><text id="R0C9_t_extra" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C6_t_primary"
         fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="534" y="30">TRANS</tspan>
+          <tspan text-anchor="middle" x="435.5" y="50">F6</tspan>
         </tspan>
-      </text><text id="R0C6_t_primary" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C6_t_extra"
+      </text><text id="R0C6_t_extra" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C5_t_primary"
         fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="435.5" y="30">TRANS</tspan>
+          <tspan text-anchor="middle" x="376" y="50">F5</tspan>
         </tspan>
-      </text><text id="R0C5_t_primary" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C5_t_extra"
+      </text><text id="R0C5_t_extra" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C4_t_primary"
         fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="376" y="30">TRANS</tspan>
+          <tspan text-anchor="middle" x="317" y="50">F4</tspan>
         </tspan>
-      </text><text id="R0C4_t_primary" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C4_t_extra"
+      </text><text id="R0C4_t_extra" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C3_t_primary"
         fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="317" y="30">TRANS</tspan>
+          <tspan text-anchor="middle" x="257" y="50">F3</tspan>
         </tspan>
-      </text><text id="R0C3_t_primary" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C3_t_extra"
+      </text><text id="R0C3_t_extra" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C2_t_primary"
         fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="257" y="30">TRANS</tspan>
+          <tspan text-anchor="middle" x="200" y="50">F2</tspan>
         </tspan>
-      </text><text id="R0C2_t_primary" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C2_t_extra"
+      </text><text id="R0C2_t_extra" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C1_t_primary"
         fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="200" y="30">TRANS</tspan>
+          <tspan text-anchor="middle" x="141" y="50">F1</tspan>
         </tspan>
-      </text><text id="R0C1_t_primary" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C1_t_extra"
-        fill="rgba(0, 0, 0, 0.87)">
-        <tspan>
-          <tspan text-anchor="middle" x="141" y="30">TRANS</tspan>
-        </tspan>
-      </text><text id="R0C0_t_primary" fill="#fff"></text><text id="R0C0_t_extra" fill="#fff">
+      </text><text id="R0C1_t_extra" fill="rgba(0, 0, 0, 0.87)"></text><text id="R0C0_t_primary"
+        fill="#fff"></text><text id="R0C0_t_extra" fill="#fff">
         <tspan>
           <tspan text-anchor="middle" x="83" y="30">TRANS</tspan>
         </tspan>

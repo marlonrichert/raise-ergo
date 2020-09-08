@@ -28,12 +28,12 @@
       data-led-index="61" data-key-index="79" data-layer="0"
       d="M904.4,263.2c0-2.9,2.4-5.3,5.3-5.3h55.7c2.9,0,5.3,2.4,5.3,5.3l0,0v40.7 c0,2.9-2.4,5.3-5.3,5.3l0,0h-55.7c-2.9,0-5.3-2.4-5.3-5.3V263.2z">
     </path>
-    <path id="R4C14_keyshape" class="key" fill="rgb(245, 166, 35)" stroke="#b3b3b3" stroke-width="1.5"
+    <path id="R4C14_keyshape" class="key" fill="rgb(80, 227, 194)" stroke="#b3b3b3" stroke-width="1.5"
       data-led-index="62" data-key-index="78" data-layer="0"
       d="M844.6,263.2c0-2.9,2.4-5.3,5.3-5.3h40.5c2.9,0,5.3,2.4,5.3,5.3v40.7 c0,2.9-2.4,5.3-5.3,5.3h-40.5c-2.9,0-5.3-2.4-5.3-5.3V263.2z">
     </path>
-    <path id="R4C13_keyshape" class="key" fill="rgb(0, 0, 0)" stroke="#b3b3b3" stroke-width="1.5" data-led-index="63"
-      data-key-index="77" data-layer="0"
+    <path id="R4C13_keyshape" class="key" fill="rgb(245, 166, 35)" stroke="#b3b3b3" stroke-width="1.5"
+      data-led-index="63" data-key-index="77" data-layer="0"
       d="M769.4,263.2c0-2.9,2.4-5.3,5.3-5.3h55.7c2.9,0,5.3,2.4,5.3,5.3l0,0v40.7 c0,2.9-2.4,5.3-5.3,5.3l0,0h-55.7c-2.9,0-5.3-2.4-5.3-5.3V263.2z">
     </path>
     <path id="R4C12_keyshape" class="key" fill="rgb(144, 19, 254)" stroke="#b3b3b3" stroke-width="1.5"
@@ -60,8 +60,8 @@
       data-key-index="66" data-layer="0"
       d="M207.7,263.2c0-2.9,2.4-5.3,5.3-5.3h55.7c2.9,0,5.3,2.4,5.3,5.3v40.7 c0,2.9-2.4,5.3-5.3,5.3H213c-2.9,0-5.3-2.4-5.3-5.3V263.2z">
     </path>
-    <path id="R4C1_keyshape" class="key" fill="rgb(0, 0, 0)" stroke="#b3b3b3" stroke-width="1.5" data-led-index="27"
-      data-key-index="65" data-layer="0"
+    <path id="R4C1_keyshape" class="key" fill="rgb(245, 166, 35)" stroke="#202020" stroke-width="3.0"
+      data-led-index="27" data-key-index="65" data-layer="0"
       d="M132.7,263.2c0-2.9,2.4-5.3,5.3-5.3h55.7c2.9,0,5.3,2.4,5.3,5.3v40.7 c0,2.9-2.4,5.3-5.3,5.3H138c-2.9,0-5.3-2.4-5.3-5.3V263.2z">
     </path>
     <path id="R4C0_keyshape" class="key" fill="rgb(0, 0, 0)" stroke="#b3b3b3" stroke-width="1.5" data-led-index="26"
@@ -276,7 +276,7 @@
       data-led-index="1" data-key-index="1" data-layer="0"
       d="M116,24.8L116,24.8c0-2.9,2.4-5.3,5.3-5.3H162c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.8c-2.9,0-5.3-2.4-5.3-5.3L116,24.8L116,24.8z">
     </path>
-    <path id="R0C0_keyshape" class="key" fill="rgb(245, 166, 35)" stroke="#202020" stroke-width="3.0" data-led-index="0"
+    <path id="R0C0_keyshape" class="key" fill="rgb(245, 166, 35)" stroke="#b3b3b3" stroke-width="1.5" data-led-index="0"
       data-key-index="0" data-layer="0"
       d="M57.1,24.8L57.1,24.8c0-2.9,2.4-5.3,5.3-5.3h40.7c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3H62.3c-2.9,0-5.3-2.4-5.3-5.3L57.1,24.8L57.1,24.8z">
     </path>
@@ -567,14 +567,20 @@
         <tspan>
           <tspan text-anchor="middle" x="870" y="280">LEDEFF.</tspan>
         </tspan>
-      </text><text id="R4C13_t_primary" fill="#fff">
+      </text><text id="R4C13_t_primary" fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="803" y="279.5" dy="0">NO</tspan>
+          <tspan class="key-config" text-anchor="middle" x="803" y="289.5">4</tspan>
         </tspan>
+      </text><text id="R4C13_t_extra" fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="803" y="279.5" dy="1.5em">KEY</tspan>
+          <tspan>
+            <tspan text-anchor="middle" x="803" y="279" dy="0">MOVE</tspan>
+          </tspan>
+          <tspan>
+            <tspan text-anchor="middle" x="798" y="279" dy="1.5em">TO</tspan>
+          </tspan>
         </tspan>
-      </text><text id="R4C13_t_extra" fill="#fff"></text><text id="R4C12_t_primary" fill="#fff">
+      </text><text id="R4C12_t_primary" fill="#fff">
         <tspan>
           <tspan class="letter-config" text-anchor="middle" x="728" y="289.5">]</tspan>
         </tspan>
@@ -622,14 +628,20 @@
         <tspan>
           <tspan text-anchor="middle" x="240" y="270">ALT/</tspan>
         </tspan>
-      </text><text id="R4C1_t_primary" fill="#fff">
+      </text><text id="R4C1_t_primary" fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="165" y="279.5" dy="0">NO</tspan>
+          <tspan class="key-config" text-anchor="middle" x="165" y="289.5">4</tspan>
         </tspan>
+      </text><text id="R4C1_t_extra" fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="165" y="279.5" dy="1.5em">KEY</tspan>
+          <tspan>
+            <tspan text-anchor="middle" x="165" y="279" dy="0">MOVE</tspan>
+          </tspan>
+          <tspan>
+            <tspan text-anchor="middle" x="160" y="279" dy="1.5em">TO</tspan>
+          </tspan>
         </tspan>
-      </text><text id="R4C1_t_extra" fill="#fff"></text><text id="R4C0_t_primary" fill="#fff">
+      </text><text id="R4C0_t_primary" fill="#fff">
         <tspan>
           <tspan text-anchor="middle" x="90" y="279.5" dy="0">NO</tspan>
         </tspan>

@@ -7,28 +7,16 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 58,
-      "label": "F1"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 59,
-      "label": "F2"
-    },
-    {
-      "keyCode": 60,
-      "label": "F3"
-    },
-    {
-      "keyCode": 61,
-      "label": "F4"
-    },
-    {
-      "keyCode": 62,
-      "label": "F5"
-    },
-    {
-      "keyCode": 63,
-      "label": "F6"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 65535,
@@ -43,32 +31,70 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 63,
-      "label": "F6"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 64,
-      "label": "F7"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 65,
-      "label": "F8"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 66,
-      "label": "F9"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 67,
-      "label": "F10"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 68,
-      "label": "F11"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 69,
-      "label": "F12"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 65535,
@@ -117,24 +143,24 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 95,
+      "label": "7",
+      "extraLabel": "Numpad"
     },
     {
-      "keyCode": 336,
-      "label": "←",
-      "extraLabel": "C+"
+      "keyCode": 96,
+      "label": "8",
+      "extraLabel": "Numpad"
     },
     {
-      "keyCode": 82,
-      "label": "↑"
+      "keyCode": 97,
+      "label": "9",
+      "extraLabel": "Numpad"
     },
     {
-      "keyCode": 335,
-      "label": "→",
-      "extraLabel": "C+"
+      "keyCode": 84,
+      "label": "/",
+      "extraLabel": "Numpad"
     },
     {
       "keyCode": 65535,
@@ -210,34 +236,24 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 74,
-      "label": "HOME"
+      "keyCode": 92,
+      "label": "4",
+      "extraLabel": "Numpad"
     },
     {
-      "keyCode": 80,
-      "label": "←"
+      "keyCode": 93,
+      "label": "5",
+      "extraLabel": "Numpad"
     },
     {
-      "keyCode": 81,
-      "label": "↓"
+      "keyCode": 94,
+      "label": "6",
+      "extraLabel": "Numpad"
     },
     {
-      "keyCode": 79,
-      "label": "→"
-    },
-    {
-      "keyCode": 77,
-      "label": "END"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 105,
-      "label": "F14"
+      "keyCode": 85,
+      "label": "*",
+      "extraLabel": "Numpad"
     },
     {
       "keyCode": 65535,
@@ -270,10 +286,29 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 84,
+      "label": "/",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 85,
+      "label": "*",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 86,
+      "label": "-",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 87,
+      "label": "+",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 99,
+      "label": ".",
+      "extraLabel": "Numpad"
     },
     {
       "keyCode": 65535,
@@ -294,30 +329,24 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 89,
+      "label": "1",
+      "extraLabel": "Numpad"
     },
     {
-      "keyCode": 330,
-      "label": "HOME",
-      "extraLabel": "C+"
+      "keyCode": 90,
+      "label": "2",
+      "extraLabel": "Numpad"
     },
     {
-      "keyCode": 75,
-      "label": "PAGE UP",
-      "verbose": "Page Up"
+      "keyCode": 91,
+      "label": "3",
+      "extraLabel": "Numpad"
     },
     {
-      "keyCode": 78,
-      "label": "PAGE DOWN",
-      "verbose": "Page Down"
-    },
-    {
-      "keyCode": 333,
-      "label": "END",
-      "extraLabel": "C+"
+      "keyCode": 99,
+      "label": ".",
+      "extraLabel": "Numpad"
     },
     {
       "keyCode": 65535,
@@ -338,22 +367,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 17492,
+      "label": "0",
+      "extraLabel": "MOVETO"
     },
     {
       "keyCode": 65535,
@@ -392,10 +408,14 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 86,
+      "label": "-",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 87,
+      "label": "+",
+      "extraLabel": "Numpad"
     },
     {
       "keyCode": 65535,
@@ -414,6 +434,11 @@
       "label": "",
       "extraLabel": "TRANS",
       "verbose": "Transparent"
+    },
+    {
+      "keyCode": 17492,
+      "label": "0",
+      "extraLabel": "MOVETO"
     },
     {
       "keyCode": 65535,
@@ -430,12 +455,12 @@
   ],
   "colormap": [
     15,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
     15,
     15,
     15,
@@ -450,46 +475,54 @@
     6,
     15,
     15,
-    15,
-    15,
-    15,
-    15,
-    15,
-    15,
-    15,
-    15,
-    15,
-    15,
-    15,
-    15,
-    5,
-    5,
     5,
     5,
     5,
     5,
     5,
     15,
-    5,
-    15,
-    15,
+    6,
+    3,
+    2,
     1,
-    1,
-    1,
+    2,
+    0,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
     15,
     5,
+    5,
+    5,
+    5,
     15,
-    1,
-    1,
-    1,
-    1,
-    1,
+    15,
+    15,
+    5,
+    5,
+    5,
+    5,
+    15,
+    15,
+    5,
+    5,
+    5,
+    5,
     15,
     15,
     6,
-    6,
-    6,
-    6,
+    2,
+    2,
+    1,
+    5,
+    5,
     15,
     15,
     15,
@@ -552,15 +585,7 @@
     15,
     15,
     15,
-    15,
-    15,
-    15,
-    15,
-    15,
-    15,
-    15,
-    15,
-    2
+    5
   ],
   "palette": [
     {

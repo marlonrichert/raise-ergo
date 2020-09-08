@@ -16,7 +16,7 @@ command line.
 
 ## Layers
 
-* [Layer 0](layer0.json): Typing in macOS
+* [Layer 0](layer0.json): Typing for macOS
 
   ![layer 0](img/layer0.svg)
 
@@ -24,10 +24,18 @@ command line.
 
   ![layer 1](img/layer1.svg)
 
-* [Layer 2](layer2.json): Editing in macOS
+* [Layer 2](layer2.json): Editing overlay for macOS
 
   ![layer 2](img/layer2.svg)
 
-* [Layer 3](layer3.json): Windows overlay for layer 2
+* [Layer 3](layer3.json): Editing overlay for Windows
 
   ![layer 3](img/layer3.svg)
+
+* [Layer 4](layer4.json): Numeric overlay for macOS
+
+  ![layer 5](img/layer5.svg)
+
+* [Layer 5](layer5.json): Numeric overlay for Windows
+
+  ![layer 5](img/layer5.svg)
