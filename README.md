@@ -18,17 +18,16 @@ command line.
 
 * [Layer 0](layer0.json): Typing in macOS
 
-  ![layer 0](img/layer0.png)
+  ![layer 0](img/layer0.svg)
 
 * [Layer 1](layer1.json): Windows overlay for layer 0
 
-  ![layer 1](img/layer1.png)
+  ![layer 1](img/layer1.svg)
 
 * [Layer 2](layer2.json): Editing in macOS
 
-  ![layer 2](img/layer2.png)
+  ![layer 2](img/layer2.svg)
 
 * [Layer 3](layer3.json): Windows overlay for layer 2
 
-  ![layer 3](img/layer3.png)
-
+  ![layer 3](img/layer3.svg)
