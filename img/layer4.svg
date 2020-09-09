@@ -44,7 +44,7 @@
       data-led-index="65" data-key-index="75" data-layer="4"
       d="M609.6,263.2c0-2.9,2.4-5.3,5.3-5.3l0,0h65.6c2.9,0,5.3,2.4,5.3,5.3l0,0v40.7 c0,2.9-2.3,5.3-5.2,5.3l0,0H615c-2.9,0-5.3-2.4-5.3-5.3l0,0L609.6,263.2L609.6,263.2z">
     </path>
-    <path id="R4C10_keyshape" class="key" fill="rgb(74, 144, 226)" stroke="#b3b3b3" stroke-width="1.5"
+    <path id="R4C10_keyshape" class="key" fill="rgb(245, 166, 35)" stroke="#b3b3b3" stroke-width="1.5"
       data-led-index="66" data-key-index="74" data-layer="4"
       d="M508.6,263.2c0-2.9,2.4-5.3,5.3-5.3h83.6c2.9,0,5.3,2.4,5.3,5.3v40.7 c0,2.9-2.4,5.3-5.3,5.3h-83.6c-2.9,0-5.3-2.4-5.3-5.3V263.2z">
     </path>
@@ -60,7 +60,7 @@
       data-key-index="66" data-layer="4"
       d="M207.7,263.2c0-2.9,2.4-5.3,5.3-5.3h55.7c2.9,0,5.3,2.4,5.3,5.3v40.7 c0,2.9-2.4,5.3-5.3,5.3H213c-2.9,0-5.3-2.4-5.3-5.3V263.2z">
     </path>
-    <path id="R4C1_keyshape" class="key" fill="rgb(80, 227, 194)" stroke="#202020" stroke-width="3.0"
+    <path id="R4C1_keyshape" class="key" fill="rgb(80, 227, 194)" stroke="#b3b3b3" stroke-width="1.5"
       data-led-index="27" data-key-index="65" data-layer="4"
       d="M132.7,263.2c0-2.9,2.4-5.3,5.3-5.3h55.7c2.9,0,5.3,2.4,5.3,5.3v40.7 c0,2.9-2.4,5.3-5.3,5.3H138c-2.9,0-5.3-2.4-5.3-5.3V263.2z">
     </path>
@@ -244,11 +244,11 @@
       data-led-index="37" data-key-index="11" data-layer="4"
       d="M626.2,24.8L626.2,24.8c0-2.9,2.4-5.3,5.3-5.3h40.7c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.7c-2.9,0-5.3-2.4-5.3-5.3V24.8z">
     </path>
-    <path id="R0C10_keyshape" class="key key-config" fill="rgb(0, 0, 0)" stroke="#b3b3b3" stroke-width="1.5"
+    <path id="R0C10_keyshape" class="key key-config" fill="rgb(245, 166, 35)" stroke="#b3b3b3" stroke-width="1.5"
       data-led-index="38" data-key-index="10" data-layer="4"
       d="M567.4,24.8L567.4,24.8c0-2.9,2.4-5.3,5.3-5.3h40.7c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.7c-2.9,0-5.3-2.4-5.3-5.3V24.8z">
     </path>
-    <path id="R0C9_keyshape" class="key-config key" fill="rgb(0, 0, 0)" stroke="#b3b3b3" stroke-width="1.5"
+    <path id="R0C9_keyshape" class="key-config key" fill="rgb(245, 166, 35)" stroke="#202020" stroke-width="3.0"
       data-led-index="39" data-key-index="9" data-layer="4"
       d="M508.7,24.8L508.7,24.8c0-2.9,2.4-5.3,5.3-5.3h40.7c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3H514c-2.9,0-5.3-2.4-5.3-5.3L508.7,24.8L508.7,24.8z">
     </path>
@@ -568,9 +568,13 @@
         <tspan>
           <tspan text-anchor="middle" x="648" y="270">TRANS</tspan>
         </tspan>
-      </text><text id="R4C10_t_primary" fill="#fff"></text><text id="R4C10_t_extra" fill="#fff">
+      </text><text id="R4C10_t_primary" fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="557" y="270">TRANS</tspan>
+          <tspan class="key-config" text-anchor="middle" x="557" y="294.5">0</tspan>
+        </tspan>
+      </text><text id="R4C10_t_extra" fill="rgba(0, 0, 0, 0.87)">
+        <tspan>
+          <tspan text-anchor="middle" x="557" y="280">Numpad</tspan>
         </tspan>
       </text><text id="R4C4_t_primary" fill="#fff"></text><text id="R4C4_t_extra" fill="#fff">
         <tspan>
@@ -699,7 +703,7 @@
         </tspan>
       </text><text id="R2C12_t_primary" fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan class="letter-config" text-anchor="middle" x="712" y="174">*</tspan>
+          <tspan class="letter-config" text-anchor="middle" x="712" y="174">+</tspan>
         </tspan>
       </text><text id="R2C12_t_extra" fill="rgba(0, 0, 0, 0.87)">
         <tspan>
@@ -789,7 +793,7 @@
         </tspan>
       </text><text id="R1C11_t_primary" fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan class="letter-config" text-anchor="middle" x="688" y="114.5">/</tspan>
+          <tspan class="letter-config" text-anchor="middle" x="688" y="114.5">-</tspan>
         </tspan>
       </text><text id="R1C11_t_extra" fill="rgba(0, 0, 0, 0.87)">
         <tspan>
@@ -797,7 +801,7 @@
         </tspan>
       </text><text id="R1C10_t_primary" fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan class="key-config" text-anchor="middle" x="630" y="114.5">8</tspan>
+          <tspan class="key-config" text-anchor="middle" x="630" y="114.5">9</tspan>
         </tspan>
       </text><text id="R1C10_t_extra" fill="rgba(0, 0, 0, 0.87)">
         <tspan>
@@ -876,13 +880,21 @@
         <tspan>
           <tspan text-anchor="middle" x="652" y="30">TRANS</tspan>
         </tspan>
-      </text><text id="R0C10_t_primary" fill="#fff"></text><text id="R0C10_t_extra" fill="#fff">
+      </text><text id="R0C10_t_primary" fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="593" y="30">TRANS</tspan>
+          <tspan class="letter-config" text-anchor="middle" x="593" y="55">*</tspan>
         </tspan>
-      </text><text id="R0C9_t_primary" fill="#fff"></text><text id="R0C9_t_extra" fill="#fff">
+      </text><text id="R0C10_t_extra" fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="534" y="30">TRANS</tspan>
+          <tspan text-anchor="middle" x="593" y="40">Numpad</tspan>
+        </tspan>
+      </text><text id="R0C9_t_primary" fill="rgba(0, 0, 0, 0.87)">
+        <tspan>
+          <tspan class="letter-config" text-anchor="middle" x="534" y="55">/</tspan>
+        </tspan>
+      </text><text id="R0C9_t_extra" fill="rgba(0, 0, 0, 0.87)">
+        <tspan>
+          <tspan text-anchor="middle" x="534" y="40">Numpad</tspan>
         </tspan>
       </text><text id="R0C6_t_primary" fill="#fff"></text><text id="R0C6_t_extra" fill="#fff">
         <tspan>

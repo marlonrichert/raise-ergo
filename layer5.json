@@ -55,16 +55,14 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 84,
+      "label": "/",
+      "extraLabel": "Numpad"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 85,
+      "label": "*",
+      "extraLabel": "Numpad"
     },
     {
       "keyCode": 65535,
@@ -158,8 +156,8 @@
       "extraLabel": "Numpad"
     },
     {
-      "keyCode": 84,
-      "label": "/",
+      "keyCode": 86,
+      "label": "-",
       "extraLabel": "Numpad"
     },
     {
@@ -251,8 +249,8 @@
       "extraLabel": "Numpad"
     },
     {
-      "keyCode": 85,
-      "label": "*",
+      "keyCode": 87,
+      "label": "+",
       "extraLabel": "Numpad"
     },
     {
@@ -418,10 +416,9 @@
       "extraLabel": "Numpad"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 98,
+      "label": "0",
+      "extraLabel": "Numpad"
     },
     {
       "keyCode": 65535,
@@ -492,8 +489,8 @@
     15,
     15,
     15,
-    15,
-    15,
+    5,
+    5,
     15,
     15,
     15,
@@ -520,7 +517,7 @@
     6,
     2,
     2,
-    1,
+    5,
     5,
     5,
     15,
