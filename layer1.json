@@ -175,99 +175,16 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 22710,
+      "label": "TRACK-",
+      "extraLabel": "Media",
+      "verbose": "Prev. track"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 230,
-      "label": "RIGHT ALT",
-      "extraLabel": "",
-      "verbose": "AltGr"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 22709,
+      "label": "TRACK+",
+      "extraLabel": "Media",
+      "verbose": "Next track"
     },
     {
       "keyCode": 65535,
@@ -282,9 +199,94 @@
       "verbose": "AltGr"
     },
     {
-      "keyCode": 70,
-      "label": "PRINT SCREEN",
-      "verbose": "Print Screen"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 230,
+      "label": "RIGHT ALT",
+      "extraLabel": "",
+      "verbose": "AltGr"
+    },
+    {
+      "keyCode": 22733,
+      "label": "PLAY",
+      "extraLabel": "Media",
+      "verbose": "Play / pause"
     },
     {
       "keyCode": 65535,
@@ -394,8 +396,10 @@
       "extraLabel": "MOVETO"
     },
     {
-      "keyCode": 41,
-      "label": "ESC"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 65535,
@@ -415,9 +419,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 49734,
+      "keyCode": 4149,
       "label": "`",
-      "extraLabel": "ALT/"
+      "extraLabel": "G+"
     },
     {
       "keyCode": 49209,
@@ -430,9 +434,9 @@
       "extraLabel": "CTRL/"
     },
     {
-      "keyCode": 49727,
+      "keyCode": 4142,
       "label": "=",
-      "extraLabel": "ALT/"
+      "extraLabel": "G+"
     },
     {
       "keyCode": 52030,
@@ -446,8 +450,10 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 48,
-      "label": "]"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 17497,
@@ -467,7 +473,7 @@
     }
   ],
   "colormap": [
-    5,
+    3,
     4,
     4,
     4,
@@ -477,15 +483,15 @@
     15,
     4,
     4,
-    3,
-    3,
+    4,
+    4,
     4,
     2,
     4,
-    6,
-    3,
-    3,
-    6,
+    4,
+    4,
+    4,
+    4,
     4,
     15,
     4,
@@ -500,38 +506,38 @@
     1,
     2,
     0,
-    5,
-    5,
-    5,
+    6,
+    6,
+    6,
     4,
     4,
     4,
     4,
     15,
-    15,
+    6,
+    6,
+    4,
+    4,
+    4,
+    4,
+    4,
+    6,
+    2,
+    4,
+    4,
+    4,
+    4,
+    4,
     15,
     4,
-    1,
-    1,
-    1,
     4,
+    4,
+    4,
+    4,
+    5,
+    6,
     5,
     2,
-    1,
-    1,
-    1,
-    1,
-    1,
-    15,
-    4,
-    6,
-    6,
-    6,
-    6,
-    3,
-    6,
-    5,
-    2,
     2,
     1,
     2,
@@ -598,7 +604,7 @@
     15,
     15,
     15,
-    2
+    1
   ],
   "palette": [
     {
@@ -626,10 +632,10 @@
       "rgb": "rgb(208, 2, 27)"
     },
     {
-      "r": 255,
-      "g": 255,
-      "b": 255,
-      "rgb": "rgb(255, 255, 255)"
+      "r": 155,
+      "g": 155,
+      "b": 155,
+      "rgb": "rgb(155, 155, 155)"
     },
     {
       "r": 245,
@@ -644,16 +650,16 @@
       "rgb": "rgb(80, 227, 194)"
     },
     {
-      "r": 0,
-      "g": 0,
-      "b": 0,
-      "rgb": "rgb(0, 0, 0)"
+      "r": 248,
+      "g": 231,
+      "b": 28,
+      "rgb": "rgb(248, 231, 28)"
     },
     {
-      "r": 0,
-      "g": 0,
-      "b": 0,
-      "rgb": "rgb(0, 0, 0)"
+      "r": 74,
+      "g": 74,
+      "b": 74,
+      "rgb": "rgb(74, 74, 74)"
     },
     {
       "r": 0,

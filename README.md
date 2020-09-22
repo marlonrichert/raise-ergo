@@ -34,7 +34,7 @@ command line.
 
 * [Layer 4](layer4.json): Numeric overlay for macOS
 
-  ![layer 5](img/layer5.svg)
+  ![layer 4](img/layer4.svg)
 
 * [Layer 5](layer5.json): Numeric overlay for Windows
 
