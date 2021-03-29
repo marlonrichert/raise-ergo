@@ -39,8 +39,8 @@ command line on macOS.
 ### Special keys
 | Key | Action |
 | --: | :-- |
-| <kbd>Scroll Lock</kbd> | Decrease Display Brightness |
-| <kbd>Pause</kbd> | Increase Display Brightness |
+| <kbd>Scroll Lock</kbd> | Decrease display brightness |
+| <kbd>Pause</kbd> | Increase display brightness |
 
 ## [Layer 1](layer1.json): Editing overlay for macOS
 ![layer 1](img/layer1.svg)
@@ -48,14 +48,10 @@ command line on macOS.
 ### Combo keys (blue & red)
 | Key | Action |
 | :-: | :-- |
-| <kbd>U</kbd> | Move the insertion point to the beginning of the previous word. |
-| <kbd>O</kbd> | Move the insertion point to the end of the next word. |
-| <kbd>H</kbd> | Move the insertion point to the beginning of the current line. |
-| <kbd>:</kbd> | Move the insertion point to the end of the current line. |
-| <kbd>W</kbd> | Delete the word to the left of the insertion point. |
-| <kbd>R</kbd> | Delete the word to the right of the insertion point. |
-| <kbd>A</kbd> | Delete the text between the insertion point and the end of the line or paragraph. |
-| <kbd>G</kbd> | Delete the text between the insertion point and the beginning of the line or paragraph. |
+| <kbd>U</kbd> / <kbd>O</kbd> | Move to beginning/end of word |
+| <kbd>W</kbd> / <kbd>R</kbd> | Delete to beginning/end of word |
+| <kbd>H</kbd> / <kbd>:</kbd> | Move to beginning/end of line |
+| <kbd>A</kbd> / <kbd>G</kbd> | Delete to beginning/end of line |
 
 ## Author
 © 2020 [Marlon Richert](https://github.com/marlonrichert)
