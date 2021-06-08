@@ -1,5 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"
   stroke-miterlimit="1.5" clip-rule="evenodd" viewBox="0 0 1029 634" class="layer">
+  <defs>
+    <radialGradient id="selected-gradient" cx="1.6982" cy="1.3057" r="129.5064">
+      <stop offset="0" stop-color="#ffeb3b">
+        <animate attributeName="stop-color" values="#ffeb3b; #79009d; #ffeb3b" dur="1s" repeatCount="indefinite">
+        </animate>
+      </stop>
+      <stop offset="1" stop-color="#79009d">
+        <animate attributeName="stop-color" values="#79009d; #ffeb3b; #79009d" dur="1s" repeatCount="indefinite">
+        </animate>
+      </stop>
+    </radialGradient>
+  </defs>
   <path id="neuron_outline" fill="none" stroke="#b4b4b4" stroke-width="1.5"
     d="M474.8,610.2c-1,2.4-3.8,3.6-6.2,2.5c-0.1,0-0.1-0.1-0.2-0.1l-48.5-23 c-7.2-3.4-10.3-12-6.9-19.3l29.4-63.2c2.8-6,4.2-12.5,4.2-19.1v-31c0-5.8,4.7-10.5,10.5-10.5l0,0h55.4c5.8,0,10.5,4.7,10.5,10.5l0,0 v31c0,6.6,1.4,13.1,4.2,19.1l29.4,63.2c3.4,7.2,0.3,15.8-6.9,19.3l-48.5,23c-2.4,1.1-5.2,0.1-6.3-2.3c0-0.1-0.1-0.1-0.1-0.2l0,0 c-2.3-5.5-8.6-8.1-14.1-5.8C477.9,605.5,475.9,607.6,474.8,610.2L474.8,610.2z">
   </path>
@@ -36,8 +48,8 @@
       data-key-index="77" data-layer="1"
       d="M769.4,263.2c0-2.9,2.4-5.3,5.3-5.3h55.7c2.9,0,5.3,2.4,5.3,5.3l0,0v40.7 c0,2.9-2.4,5.3-5.3,5.3l0,0h-55.7c-2.9,0-5.3-2.4-5.3-5.3V263.2z">
     </path>
-    <path id="R4C12_keyshape" class="key" fill="rgb(0, 0, 0)" stroke="#b3b3b3" stroke-width="1.5" data-led-index="64"
-      data-key-index="76" data-layer="1"
+    <path id="R4C12_keyshape" class="key" fill="rgb(144, 19, 254)" stroke="#b3b3b3" stroke-width="1.5"
+      data-led-index="64" data-key-index="76" data-layer="1"
       d="M694.3,263.2c0-2.9,2.4-5.3,5.3-5.3h55.7c2.9,0,5.3,2.4,5.3,5.3l0,0v40.7 c0,2.9-2.4,5.3-5.3,5.3l0,0h-55.7c-2.9,0-5.3-2.4-5.3-5.3V263.2z">
     </path>
     <path id="R4C11_keyshape" class="key" fill="rgb(144, 19, 254)" stroke="#b3b3b3" stroke-width="1.5"
@@ -56,8 +68,8 @@
       data-led-index="29" data-key-index="67" data-layer="1"
       d="M282.8,263.2c0-2.9,2.4-5.3,5.3-5.3h65.6c2.9,0,5.3,2.4,5.3,5.3l0,0v40.7 c0,2.9-2.3,5.3-5.2,5.3l0,0H288c-2.9,0-5.3-2.4-5.3-5.3l0,0L282.8,263.2L282.8,263.2z">
     </path>
-    <path id="R4C2_keyshape" class="key" fill="rgb(0, 0, 0)" stroke="#b3b3b3" stroke-width="1.5" data-led-index="28"
-      data-key-index="66" data-layer="1"
+    <path id="R4C2_keyshape" class="key" fill="rgb(144, 19, 254)" stroke="#b3b3b3" stroke-width="1.5"
+      data-led-index="28" data-key-index="66" data-layer="1"
       d="M207.7,263.2c0-2.9,2.4-5.3,5.3-5.3h55.7c2.9,0,5.3,2.4,5.3,5.3v40.7 c0,2.9-2.4,5.3-5.3,5.3H213c-2.9,0-5.3-2.4-5.3-5.3V263.2z">
     </path>
     <path id="R4C1_keyshape" class="key" fill="rgb(0, 0, 0)" stroke="#b3b3b3" stroke-width="1.5" data-led-index="27"
@@ -76,19 +88,19 @@
       data-led-index="56" data-key-index="62" data-layer="1"
       d="M755.7,203.6c0-2.9,2.4-5.3,5.3-5.3h40.7c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.7c-2.9,0-5.3-2.4-5.3-5.3V203.6L755.7,203.6L755.7,203.6z">
     </path>
-    <path id="R3C13_keyshape" class="key-config key" fill="rgb(0, 0, 0)" stroke="#b3b3b3" stroke-width="1.5"
+    <path id="R3C13_keyshape" class="key-config key" fill="rgb(74, 144, 226)" stroke="#b3b3b3" stroke-width="1.5"
       data-led-index="57" data-key-index="61" data-layer="1"
       d="M696.9,203.6c0-2.9,2.4-5.3,5.3-5.3h40.7c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.7c-2.9,0-5.3-2.4-5.3-5.3V203.6z">
     </path>
-    <path id="R3C12_keyshape" class="key-config key" fill="rgb(0, 0, 0)" stroke="#b3b3b3" stroke-width="1.5"
+    <path id="R3C12_keyshape" class="key-config key" fill="rgb(74, 144, 226)" stroke="#b3b3b3" stroke-width="1.5"
       data-led-index="58" data-key-index="60" data-layer="1"
       d="M638.2,203.6c0-2.9,2.4-5.3,5.3-5.3h40.7c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.7c-2.9,0-5.3-2.4-5.3-5.3V203.6z">
     </path>
-    <path id="R3C11_keyshape" class="letter-config key" fill="rgb(126, 211, 33)" stroke="#b3b3b3" stroke-width="1.5"
+    <path id="R3C11_keyshape" class="letter-config key" fill="rgb(74, 144, 226)" stroke="#b3b3b3" stroke-width="1.5"
       data-led-index="59" data-key-index="59" data-layer="1"
       d="M579.4,203.6c0-2.9,2.4-5.3,5.3-5.3h40.7c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.7c-2.9,0-5.3-2.4-5.3-5.3V203.6z">
     </path>
-    <path id="R3C10_keyshape" class="letter-config key" fill="rgb(144, 19, 254)" stroke="#b3b3b3" stroke-width="1.5"
+    <path id="R3C10_keyshape" class="letter-config key" fill="rgb(74, 144, 226)" stroke="#b3b3b3" stroke-width="1.5"
       data-led-index="60" data-key-index="58" data-layer="1"
       d="M522.5,203.6c0-2.9,2.4-5.3,5.3-5.3h40.7c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.7c-2.9,0-5.3-2.4-5.3-5.3V203.6z">
     </path>
@@ -96,7 +108,7 @@
       data-led-index="25" data-key-index="54" data-layer="1"
       d="M411,203.6c0-2.9,2.4-5.3,5.3-5.3H457c2.9,0,5.3,2.4,5.3,5.3v40.9c0,2.9-2.4,5.3-5.3,5.3 h-40.7c-2.9,0-5.3-2.4-5.3-5.3V203.6z">
     </path>
-    <path id="R3C5_keyshape" class="letter-config key" fill="rgb(144, 19, 254)" stroke="#b3b3b3" stroke-width="1.5"
+    <path id="R3C5_keyshape" class="letter-config key" fill="rgb(74, 144, 226)" stroke="#b3b3b3" stroke-width="1.5"
       data-led-index="24" data-key-index="53" data-layer="1"
       d="M352.1,203.6c0-2.9,2.4-5.3,5.3-5.3H398c2.9,0,5.3,2.4,5.3,5.3v40.9c0,2.9-2.4,5.3-5.3,5.3 h-40.7c-2.9,0-5.3-2.4-5.3-5.3L352.1,203.6L352.1,203.6z">
     </path>
@@ -104,11 +116,11 @@
       data-led-index="23" data-key-index="52" data-layer="1"
       d="M293.3,203.6c0-2.9,2.4-5.3,5.3-5.3h40.6c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.7c-2.9,0-5.3-2.4-5.3-5.3L293.3,203.6L293.3,203.6z">
     </path>
-    <path id="R3C3_keyshape" class="letter-config key" fill="rgb(0, 0, 0)" stroke="#b3b3b3" stroke-width="1.5"
+    <path id="R3C3_keyshape" class="letter-config key" fill="rgb(74, 144, 226)" stroke="#b3b3b3" stroke-width="1.5"
       data-led-index="22" data-key-index="51" data-layer="1"
       d="M234.5,203.6c0-2.9,2.4-5.3,5.3-5.3h40.7c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.7c-2.9,0-5.3-2.4-5.3-5.3V203.6z">
     </path>
-    <path id="R3C2_keyshape" class="letter-config key" fill="rgb(0, 0, 0)" stroke="#b3b3b3" stroke-width="1.5"
+    <path id="R3C2_keyshape" class="letter-config key" fill="rgb(74, 144, 226)" stroke="#b3b3b3" stroke-width="1.5"
       data-led-index="21" data-key-index="50" data-layer="1"
       d="M175.7,203.6c0-2.9,2.4-5.3,5.3-5.3h40.7c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.8c-2.9,0-5.3-2.4-5.3-5.3L175.7,203.6L175.7,203.6z">
     </path>
@@ -152,7 +164,7 @@
       data-key-index="36" data-layer="1"
       d="M330.2,144L330.2,144c0-2.9,2.4-5.3,5.3-5.3h40.6c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.7c-2.9,0-5.3-2.4-5.3-5.3L330.2,144L330.2,144z">
     </path>
-    <path id="R2C3_keyshape" class="key" fill="rgb(74, 144, 226)" stroke="#b3b3b3" stroke-width="1.5"
+    <path id="R2C3_keyshape" class="key" fill="rgb(126, 211, 33)" stroke="#b3b3b3" stroke-width="1.5"
       data-led-index="16" data-key-index="35" data-layer="1"
       d="M271.4,144L271.4,144c0-2.9,2.4-5.3,5.3-5.3h40.6c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.7c-2.9,0-5.3-2.4-5.3-5.3L271.4,144L271.4,144z">
     </path>
@@ -180,7 +192,7 @@
       data-led-index="42" data-key-index="29" data-layer="1"
       d="M777.9,84.4L777.9,84.4c0-2.9,2.4-5.3,5.3-5.3h40.7c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.7c-2.9,0-5.3-2.4-5.3-5.3V84.4z">
     </path>
-    <path id="R1C12_keyshape" class="letter-config key" fill="rgb(0, 0, 0)" stroke="#b3b3b3" stroke-width="1.5"
+    <path id="R1C12_keyshape" class="letter-config key" fill="rgb(74, 144, 226)" stroke="#b3b3b3" stroke-width="1.5"
       data-led-index="43" data-key-index="28" data-layer="1"
       d="M720.5,84.4L720.5,84.4c0-2.9,2.4-5.3,5.3-5.3h40.7c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.7c-2.9,0-5.3-2.4-5.3-5.3V84.4L720.5,84.4L720.5,84.4z">
     </path>
@@ -196,11 +208,11 @@
       data-led-index="46" data-key-index="25" data-layer="1"
       d="M548.1,84.4L548.1,84.4c0-2.9,2.4-5.3,5.3-5.3h40.7c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.7c-2.9,0-5.3-2.4-5.3-5.3V84.4z">
     </path>
-    <path id="R1C8_keyshape" class="letter-config key" fill="rgb(245, 166, 35)" stroke="#b3b3b3" stroke-width="1.5"
+    <path id="R1C8_keyshape" class="letter-config key" fill="rgb(74, 144, 226)" stroke="#b3b3b3" stroke-width="1.5"
       data-led-index="47" data-key-index="24" data-layer="1"
       d="M490.7,84.4L490.7,84.4c0-2.9,2.4-5.3,5.3-5.3h40.7c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.7c-2.9,0-5.3-2.4-5.3-5.3L490.7,84.4L490.7,84.4z">
     </path>
-    <path id="R1C5_keyshape" class="letter-config key" fill="rgb(74, 144, 226)" stroke="#b3b3b3" stroke-width="1.5"
+    <path id="R1C5_keyshape" class="letter-config key" fill="rgb(208, 2, 27)" stroke="#b3b3b3" stroke-width="1.5"
       data-led-index="12" data-key-index="21" data-layer="1"
       d="M381.1,84.4L381.1,84.4c0-2.9,2.4-5.3,5.3-5.3h40.7c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.7c-2.9,0-5.3-2.4-5.3-5.3V84.4z">
     </path>
@@ -208,7 +220,7 @@
       data-led-index="11" data-key-index="20" data-layer="1"
       d="M322.2,84.4L322.2,84.4c0-2.9,2.4-5.3,5.3-5.3h40.6c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.7c-2.9,0-5.3-2.4-5.3-5.3L322.2,84.4L322.2,84.4z">
     </path>
-    <path id="R1C3_keyshape" class="letter-config key" fill="rgb(74, 144, 226)" stroke="#b3b3b3" stroke-width="1.5"
+    <path id="R1C3_keyshape" class="letter-config key" fill="rgb(245, 166, 35)" stroke="#b3b3b3" stroke-width="1.5"
       data-led-index="10" data-key-index="19" data-layer="1"
       d="M263.5,84.4L263.5,84.4c0-2.9,2.4-5.3,5.3-5.3h40.6c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.7c-2.9,0-5.3-2.4-5.3-5.3L263.5,84.4L263.5,84.4z">
     </path>
@@ -216,7 +228,7 @@
       data-led-index="9" data-key-index="18" data-layer="1"
       d="M204.6,84.4L204.6,84.4c0-2.9,2.4-5.3,5.3-5.3h40.7c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.7c-2.9,0-5.3-2.4-5.3-5.3L204.6,84.4L204.6,84.4z">
     </path>
-    <path id="R1C1_keyshape" class="letter-config key" fill="rgb(0, 0, 0)" stroke="#b3b3b3" stroke-width="1.5"
+    <path id="R1C1_keyshape" class="letter-config key" fill="rgb(208, 2, 27)" stroke="#b3b3b3" stroke-width="1.5"
       data-led-index="8" data-key-index="17" data-layer="1"
       d="M145.8,84.4L145.8,84.4c0-2.9,2.4-5.3,5.3-5.3h40.7c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3H151c-2.9,0-5.3-2.4-5.3-5.3L145.8,84.4L145.8,84.4z">
     </path>
@@ -276,8 +288,8 @@
       data-led-index="1" data-key-index="1" data-layer="1"
       d="M116,24.8L116,24.8c0-2.9,2.4-5.3,5.3-5.3H162c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.8c-2.9,0-5.3-2.4-5.3-5.3L116,24.8L116,24.8z">
     </path>
-    <path id="R0C0_keyshape" class="key" fill="rgb(0, 0, 0)" stroke="#202020" stroke-width="3.0" data-led-index="0"
-      data-key-index="0" data-layer="1"
+    <path id="R0C0_keyshape" class="key" fill="rgb(0, 0, 0)" stroke="url('#selected-gradient')" stroke-width="3.0"
+      data-led-index="0" data-key-index="0" data-layer="1"
       d="M57.1,24.8L57.1,24.8c0-2.9,2.4-5.3,5.3-5.3h40.7c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3H62.3c-2.9,0-5.3-2.4-5.3-5.3L57.1,24.8L57.1,24.8z">
     </path>
   </g>
@@ -552,15 +564,12 @@
         <tspan>
           <tspan text-anchor="middle" x="803" y="279.5" dy="1.5em">KEY</tspan>
         </tspan>
-      </text><text id="R4C13_t_extra" fill="#fff"></text><text id="R4C12_t_primary" fill="#fff">
+      </text><text id="R4C13_t_extra" fill="#fff"></text><text id="R4C12_t_primary" fill="#fff"></text><text
+        id="R4C12_t_extra" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="728" y="279.5" dy="0">NO</tspan>
+          <tspan text-anchor="middle" x="728" y="270">TRANS</tspan>
         </tspan>
-        <tspan>
-          <tspan text-anchor="middle" x="728" y="279.5" dy="1.5em">KEY</tspan>
-        </tspan>
-      </text><text id="R4C12_t_extra" fill="#fff"></text><text id="R4C11_t_primary" fill="#fff"></text><text
-        id="R4C11_t_extra" fill="#fff">
+      </text><text id="R4C11_t_primary" fill="#fff"></text><text id="R4C11_t_extra" fill="#fff">
         <tspan>
           <tspan text-anchor="middle" x="648" y="270">TRANS</tspan>
         </tspan>
@@ -578,14 +587,11 @@
         <tspan>
           <tspan text-anchor="middle" x="320" y="270">TRANS</tspan>
         </tspan>
-      </text><text id="R4C2_t_primary" fill="#fff">
+      </text><text id="R4C2_t_primary" fill="#fff"></text><text id="R4C2_t_extra" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="240" y="279.5" dy="0">NO</tspan>
+          <tspan text-anchor="middle" x="240" y="270">TRANS</tspan>
         </tspan>
-        <tspan>
-          <tspan text-anchor="middle" x="240" y="279.5" dy="1.5em">KEY</tspan>
-        </tspan>
-      </text><text id="R4C2_t_extra" fill="#fff"></text><text id="R4C1_t_primary" fill="#fff">
+      </text><text id="R4C1_t_primary" fill="#fff">
         <tspan>
           <tspan text-anchor="middle" x="165" y="279.5" dy="0">NO</tspan>
         </tspan>
@@ -612,58 +618,66 @@
         </tspan>
       </text><text id="R3C14_t_extra" fill="#fff"></text><text id="R3C13_t_primary" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="724" y="218.5" dy="0">NO</tspan>
-        </tspan>
-        <tspan>
-          <tspan text-anchor="middle" x="724" y="218.5" dy="1.5em">KEY</tspan>
+          <tspan text-anchor="middle" x="724" y="228.5">END</tspan>
         </tspan>
       </text><text id="R3C13_t_extra" fill="#fff"></text><text id="R3C12_t_primary" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="665" y="218.5" dy="0">NO</tspan>
+          <tspan text-anchor="middle" x="665" y="218.5" dy="0">PAGE</tspan>
         </tspan>
         <tspan>
-          <tspan text-anchor="middle" x="665" y="218.5" dy="1.5em">KEY</tspan>
+          <tspan text-anchor="middle" x="665" y="218.5" dy="1.5em">DOWN</tspan>
         </tspan>
-      </text><text id="R3C12_t_extra" fill="#fff"></text><text id="R3C11_t_primary" fill="rgba(0, 0, 0, 0.87)">
+      </text><text id="R3C12_t_extra" fill="#fff"></text><text id="R3C11_t_primary" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="605" y="228.5">ENTER</tspan>
+          <tspan text-anchor="middle" x="605" y="218.5" dy="0">PAGE</tspan>
         </tspan>
-      </text><text id="R3C11_t_extra" fill="rgba(0, 0, 0, 0.87)"></text><text id="R3C10_t_primary"
-        fill="#fff"></text><text id="R3C10_t_extra" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="549" y="209">TRANS</tspan>
+          <tspan text-anchor="middle" x="605" y="218.5" dy="1.5em">UP</tspan>
         </tspan>
-      </text><text id="R3C6_t_primary" fill="#fff">
+      </text><text id="R3C11_t_extra" fill="#fff"></text><text id="R3C10_t_primary" fill="#fff">
+        <tspan>
+          <tspan text-anchor="middle" x="549" y="228.5">HOME</tspan>
+        </tspan>
+      </text><text id="R3C10_t_extra" fill="#fff"></text><text id="R3C6_t_primary" fill="#fff">
         <tspan>
           <tspan text-anchor="middle" x="437" y="218.5" dy="0">NO</tspan>
         </tspan>
         <tspan>
           <tspan text-anchor="middle" x="437" y="218.5" dy="1.5em">KEY</tspan>
         </tspan>
-      </text><text id="R3C6_t_extra" fill="#fff"></text><text id="R3C5_t_primary" fill="#fff"></text><text
-        id="R3C5_t_extra" fill="#fff">
+      </text><text id="R3C6_t_extra" fill="#fff"></text><text id="R3C5_t_primary" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="377" y="209">TRANS</tspan>
+          <tspan class="letter-config" text-anchor="middle" x="377" y="228.5">↓</tspan>
+        </tspan>
+      </text><text id="R3C5_t_extra" fill="#fff">
+        <tspan>
+          <tspan text-anchor="middle" x="377" y="209">G+</tspan>
         </tspan>
       </text><text id="R3C4_t_primary" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="320" y="228.5">END</tspan>
+          <tspan class="letter-config" text-anchor="middle" x="320" y="228.5">↓</tspan>
         </tspan>
-      </text><text id="R3C4_t_extra" fill="#fff"></text><text id="R3C3_t_primary" fill="#fff">
+      </text><text id="R3C4_t_extra" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="261" y="218.5" dy="0">NO</tspan>
+          <tspan text-anchor="middle" x="320" y="209">A+</tspan>
         </tspan>
+      </text><text id="R3C3_t_primary" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="261" y="218.5" dy="1.5em">KEY</tspan>
+          <tspan class="letter-config" text-anchor="middle" x="261" y="228.5">↑</tspan>
         </tspan>
-      </text><text id="R3C3_t_extra" fill="#fff"></text><text id="R3C2_t_primary" fill="#fff">
+      </text><text id="R3C3_t_extra" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="201" y="218.5" dy="0">NO</tspan>
+          <tspan text-anchor="middle" x="261" y="209">A+</tspan>
         </tspan>
+      </text><text id="R3C2_t_primary" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="201" y="218.5" dy="1.5em">KEY</tspan>
+          <tspan class="letter-config" text-anchor="middle" x="201" y="228.5">↑</tspan>
         </tspan>
-      </text><text id="R3C2_t_extra" fill="#fff"></text><text id="R3C0_t_primary" fill="#fff">
+      </text><text id="R3C2_t_extra" fill="#fff">
+        <tspan>
+          <tspan text-anchor="middle" x="201" y="209">G+</tspan>
+        </tspan>
+      </text><text id="R3C0_t_primary" fill="#fff">
         <tspan>
           <tspan text-anchor="middle" x="115" y="228.5">NO KEY</tspan>
         </tspan>
@@ -708,24 +722,21 @@
         </tspan>
       </text><text id="R2C5_t_primary" fill="#fff">
         <tspan>
-          <tspan class="letter-config" text-anchor="middle" x="413" y="169">K</tspan>
+          <tspan text-anchor="middle" x="413" y="169">DEL</tspan>
         </tspan>
       </text><text id="R2C5_t_extra" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="413" y="149">C+</tspan>
+          <tspan text-anchor="middle" x="413" y="149">G+</tspan>
         </tspan>
       </text><text id="R2C4_t_primary" fill="#fff">
         <tspan>
           <tspan text-anchor="middle" x="355" y="169">DEL</tspan>
         </tspan>
-      </text><text id="R2C4_t_extra" fill="#fff"></text><text id="R2C3_t_primary" fill="#fff">
+      </text><text id="R2C4_t_extra" fill="#fff"></text><text id="R2C3_t_primary" fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="297" y="159" dy="0">PAGE</tspan>
+          <tspan text-anchor="middle" x="297" y="169">ENTER</tspan>
         </tspan>
-        <tspan>
-          <tspan text-anchor="middle" x="297" y="159" dy="1.5em">DOWN</tspan>
-        </tspan>
-      </text><text id="R2C3_t_extra" fill="#fff"></text><text id="R2C2_t_primary" fill="#fff">
+      </text><text id="R2C3_t_extra" fill="rgba(0, 0, 0, 0.87)"></text><text id="R2C2_t_primary" fill="#fff">
         <tspan>
           <tspan>
             <tspan text-anchor="middle" x="238" y="159" dy="0">BACK</tspan>
@@ -771,12 +782,13 @@
         </tspan>
       </text><text id="R1C13_t_extra" fill="#fff"></text><text id="R1C12_t_primary" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="745" y="99.5" dy="0">NO</tspan>
+          <tspan class="letter-config" text-anchor="middle" x="745" y="109.5">E</tspan>
         </tspan>
+      </text><text id="R1C12_t_extra" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="745" y="99.5" dy="1.5em">KEY</tspan>
+          <tspan text-anchor="middle" x="745" y="90">C+</tspan>
         </tspan>
-      </text><text id="R1C12_t_extra" fill="#fff"></text><text id="R1C11_t_primary" fill="#fff">
+      </text><text id="R1C11_t_primary" fill="#fff">
         <tspan>
           <tspan class="letter-config" text-anchor="middle" x="688" y="109.5">→</tspan>
         </tspan>
@@ -796,15 +808,23 @@
         <tspan>
           <tspan text-anchor="middle" x="574" y="90">A+</tspan>
         </tspan>
-      </text><text id="R1C8_t_primary" fill="rgba(0, 0, 0, 0.87)">
+      </text><text id="R1C8_t_primary" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="516" y="109.5">ESC</tspan>
+          <tspan class="letter-config" text-anchor="middle" x="516" y="109.5">A</tspan>
         </tspan>
-      </text><text id="R1C8_t_extra" fill="rgba(0, 0, 0, 0.87)"></text><text id="R1C5_t_primary" fill="#fff">
+      </text><text id="R1C8_t_extra" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="407" y="109.5">HOME</tspan>
+          <tspan text-anchor="middle" x="516" y="90">C+</tspan>
         </tspan>
-      </text><text id="R1C5_t_extra" fill="#fff"></text><text id="R1C4_t_primary" fill="#fff">
+      </text><text id="R1C5_t_primary" fill="#fff">
+        <tspan>
+          <tspan class="letter-config" text-anchor="middle" x="407" y="109.5">K</tspan>
+        </tspan>
+      </text><text id="R1C5_t_extra" fill="#fff">
+        <tspan>
+          <tspan text-anchor="middle" x="407" y="90">C+</tspan>
+        </tspan>
+      </text><text id="R1C4_t_primary" fill="#fff">
         <tspan>
           <tspan text-anchor="middle" x="348" y="109.5">DEL</tspan>
         </tspan>
@@ -812,14 +832,11 @@
         <tspan>
           <tspan text-anchor="middle" x="348" y="90">A+</tspan>
         </tspan>
-      </text><text id="R1C3_t_primary" fill="#fff">
+      </text><text id="R1C3_t_primary" fill="rgba(0, 0, 0, 0.87)">
         <tspan>
-          <tspan text-anchor="middle" x="289" y="99.5" dy="0">PAGE</tspan>
+          <tspan text-anchor="middle" x="289" y="109.5">ESC</tspan>
         </tspan>
-        <tspan>
-          <tspan text-anchor="middle" x="289" y="99.5" dy="1.5em">UP</tspan>
-        </tspan>
-      </text><text id="R1C3_t_extra" fill="#fff"></text><text id="R1C2_t_primary" fill="#fff">
+      </text><text id="R1C3_t_extra" fill="rgba(0, 0, 0, 0.87)"></text><text id="R1C2_t_primary" fill="#fff">
         <tspan>
           <tspan>
             <tspan text-anchor="middle" x="230" y="99.5" dy="0">BACK</tspan>
@@ -834,12 +851,13 @@
         </tspan>
       </text><text id="R1C1_t_primary" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="171" y="99.5" dy="0">NO</tspan>
+          <tspan class="letter-config" text-anchor="middle" x="171" y="109.5">U</tspan>
         </tspan>
+      </text><text id="R1C1_t_extra" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="171" y="99.5" dy="1.5em">KEY</tspan>
+          <tspan text-anchor="middle" x="171" y="90">C+</tspan>
         </tspan>
-      </text><text id="R1C1_t_extra" fill="#fff"></text><text id="R1C0_t_primary" fill="#fff">
+      </text><text id="R1C0_t_primary" fill="#fff">
         <tspan>
           <tspan text-anchor="middle" x="100" y="109.5">NO KEY</tspan>
         </tspan>

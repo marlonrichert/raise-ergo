@@ -1,8 +1,9 @@
 {
   "keymap": [
     {
-      "keyCode": 41,
-      "label": "ESC"
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 30,
@@ -142,9 +143,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 283,
+      "label": "X",
+      "extraLabel": "C+"
     },
     {
       "keyCode": 4,
@@ -202,9 +203,9 @@
       "label": ";"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 283,
+      "label": "X",
+      "extraLabel": "C+"
     },
     {
       "keyCode": 72,
@@ -231,9 +232,8 @@
       "label": "C"
     },
     {
-      "keyCode": 49706,
-      "label": "V",
-      "extraLabel": "ALT/"
+      "keyCode": 25,
+      "label": "V"
     },
     {
       "keyCode": 5,
@@ -255,9 +255,8 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 49698,
-      "label": "N",
-      "extraLabel": "ALT/"
+      "keyCode": 17,
+      "label": "N"
     },
     {
       "keyCode": 16,
@@ -291,9 +290,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 226,
+      "label": "LEFT ALT",
+      "verbose": "Left Alt"
     },
     {
       "keyCode": 49478,
@@ -341,9 +340,10 @@
       "extraLabel": "SHIFT/"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 230,
+      "label": "RIGHT ALT",
+      "extraLabel": "",
+      "verbose": "AltGr"
     },
     {
       "keyCode": 0,
@@ -375,22 +375,22 @@
     4,
     4,
     4,
-    15,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    15,
-    4,
-    4,
-    4,
     2,
     4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    15,
+    4,
+    4,
+    4,
+    4,
+    4,
     15,
     15,
-    15,
+    2,
     2,
     9,
     2,
@@ -411,22 +411,22 @@
     4,
     4,
     7,
-    15,
-    4,
-    4,
-    4,
-    4,
-    4,
-    15,
-    4,
-    4,
-    4,
-    4,
     2,
+    4,
+    4,
+    4,
+    4,
+    4,
+    15,
+    4,
+    4,
+    4,
+    4,
+    4,
     15,
     3,
     15,
-    15,
+    2,
     2,
     9,
     2,
