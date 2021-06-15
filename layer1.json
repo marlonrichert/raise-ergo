@@ -146,9 +146,10 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 4138,
@@ -211,9 +212,10 @@
       "extraLabel": "G+"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 0,
@@ -402,7 +404,7 @@
     5,
     3,
     3,
-    15,
+    2,
     3,
     3,
     0,
@@ -438,7 +440,7 @@
     1,
     1,
     15,
-    15,
+    2,
     1,
     1,
     1,

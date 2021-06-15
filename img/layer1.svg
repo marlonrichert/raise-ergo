@@ -16,8 +16,8 @@
     d="M474.8,610.2c-1,2.4-3.8,3.6-6.2,2.5c-0.1,0-0.1-0.1-0.2-0.1l-48.5-23 c-7.2-3.4-10.3-12-6.9-19.3l29.4-63.2c2.8-6,4.2-12.5,4.2-19.1v-31c0-5.8,4.7-10.5,10.5-10.5l0,0h55.4c5.8,0,10.5,4.7,10.5,10.5l0,0 v31c0,6.6,1.4,13.1,4.2,19.1l29.4,63.2c3.4,7.2,0.3,15.8-6.9,19.3l-48.5,23c-2.4,1.1-5.2,0.1-6.3-2.3c0-0.1-0.1-0.1-0.1-0.2l0,0 c-2.3-5.5-8.6-8.1-14.1-5.8C477.9,605.5,475.9,607.6,474.8,610.2L474.8,610.2z">
   </path>
   <g id="keyshapes">
-    <path id="neuron_led" class="key" fill="rgb(155, 155, 155)" stroke="#b3b3b3" stroke-width="1.5" data-led-index="131"
-      data-key-index="142" data-layer="1"
+    <path id="neuron_led" class="key" fill="rgb(155, 155, 155)" stroke="url('#selected-gradient')" stroke-width="3.0"
+      data-led-index="131" data-key-index="142" data-layer="1"
       d="M454.5,510c-0.2-0.6,0.2-1.2,0.7-1.3l28.6-9.8c0.2-0.1,0.5-0.1,0.7,0l29.7,9.8 c0.6,0.2,0.9,0.8,0.7,1.3l-7.5,26.9c0,0.2-0.1,0.3-0.2,0.4L485,561.9c-0.4,0.5-1.1,0.5-1.6,0.1l-0.1-0.1l-21.1-24.6 c-0.1-0.1-0.2-0.3-0.2-0.4L454.5,510L454.5,510z M465.2,514.6c-0.1-0.5,0.2-1.1,0.7-1.3l18.1-6c0.2-0.1,0.5-0.1,0.7,0l18.8,6 c0.5,0.2,0.9,0.7,0.8,1.3l-3.7,19.6c0,0.3-0.2,0.5-0.4,0.7l-15.1,12c-0.4,0.3-1,0.3-1.4,0l-14.3-12c-0.2-0.2-0.3-0.4-0.4-0.6 L465.2,514.6L465.2,514.6z">
     </path>
     <path id="R4C9_keyshape" class="key" fill="rgb(144, 19, 254)" stroke="#b3b3b3" stroke-width="1.5"
@@ -132,7 +132,7 @@
       data-key-index="31" data-layer="1"
       d="M861.3,144c0-2.9,2.1-5.3,4.7-5.3l0,0h100c2.6,0,4.7,2.4,4.7,5.3l0,0v40.9 c0,2.9-2.1,5.3-4.7,5.3l0,0H866c-2.6,0-4.7-2.4-4.7-5.3l0,0V144z">
     </path>
-    <path id="R2C14_keyshape" class="key-config key" fill="rgb(0, 0, 0)" stroke="#b3b3b3" stroke-width="1.5"
+    <path id="R2C14_keyshape" class="key-config key" fill="rgb(144, 19, 254)" stroke="#b3b3b3" stroke-width="1.5"
       data-led-index="49" data-key-index="46" data-layer="1"
       d="M802.5,144L802.5,144c0-2.9,2.4-5.3,5.3-5.3h40.7c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.7c-2.9,0-5.3-2.4-5.3-5.3V144z">
     </path>
@@ -176,8 +176,8 @@
       data-key-index="33" data-layer="1"
       d="M153.8,144L153.8,144c0-2.9,2.4-5.3,5.3-5.3h40.7c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3H159c-2.9,0-5.3-2.4-5.3-5.3L153.8,144L153.8,144z">
     </path>
-    <path id="R2C0_keyshape" class="key" fill="rgb(0, 0, 0)" stroke="#b3b3b3" stroke-width="1.5" data-led-index="13"
-      data-key-index="32" data-layer="1"
+    <path id="R2C0_keyshape" class="key" fill="rgb(144, 19, 254)" stroke="#b3b3b3" stroke-width="1.5"
+      data-led-index="13" data-key-index="32" data-layer="1"
       d="M57.7,144c0-2.9,2.2-5.3,4.9-5.3l0,0h79.3c2.7,0,4.9,2.4,4.9,5.3l0,0v40.9 c0,2.9-2.2,5.3-4.9,5.3l0,0H62.6c-2.7,0-4.9-2.4-4.9-5.3l0,0C57.7,184.9,57.7,144,57.7,144z">
     </path>
     <path id="R1C15_keyshape" class="letter-config key" fill="rgb(0, 0, 0)" stroke="#b3b3b3" stroke-width="1.5"
@@ -288,8 +288,8 @@
       data-led-index="1" data-key-index="1" data-layer="1"
       d="M116,24.8L116,24.8c0-2.9,2.4-5.3,5.3-5.3H162c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3h-40.8c-2.9,0-5.3-2.4-5.3-5.3L116,24.8L116,24.8z">
     </path>
-    <path id="R0C0_keyshape" class="key" fill="rgb(0, 0, 0)" stroke="url('#selected-gradient')" stroke-width="3.0"
-      data-led-index="0" data-key-index="0" data-layer="1"
+    <path id="R0C0_keyshape" class="key" fill="rgb(0, 0, 0)" stroke="#b3b3b3" stroke-width="1.5" data-led-index="0"
+      data-key-index="0" data-layer="1"
       d="M57.1,24.8L57.1,24.8c0-2.9,2.4-5.3,5.3-5.3h40.7c2.9,0,5.3,2.4,5.3,5.3v40.9 c0,2.9-2.4,5.3-5.3,5.3H62.3c-2.9,0-5.3-2.4-5.3-5.3L57.1,24.8L57.1,24.8z">
     </path>
   </g>
@@ -685,14 +685,12 @@
         <tspan>
           <tspan text-anchor="middle" x="930" y="110">NO KEY</tspan>
         </tspan>
-      </text><text id="R2C15_t_extra" fill="#fff"></text><text id="R2C14_t_primary" fill="#fff">
+      </text><text id="R2C15_t_extra" fill="#fff"></text><text id="R2C14_t_primary" fill="#fff"></text><text
+        id="R2C14_t_extra" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="828" y="159" dy="0">NO</tspan>
+          <tspan text-anchor="middle" x="828" y="149">TRANS</tspan>
         </tspan>
-        <tspan>
-          <tspan text-anchor="middle" x="828" y="159" dy="1.5em">KEY</tspan>
-        </tspan>
-      </text><text id="R2C14_t_extra" fill="#fff"></text><text id="R2C13_t_primary" fill="#fff">
+      </text><text id="R2C13_t_primary" fill="#fff">
         <tspan>
           <tspan class="letter-config" text-anchor="middle" x="771" y="169">→</tspan>
         </tspan>
@@ -758,11 +756,11 @@
         <tspan>
           <tspan text-anchor="middle" x="180" y="149">G+</tspan>
         </tspan>
-      </text><text id="R2C0_t_primary" fill="#fff">
+      </text><text id="R2C0_t_primary" fill="#fff"></text><text id="R2C0_t_extra" fill="#fff">
         <tspan>
-          <tspan text-anchor="middle" x="103" y="169">NO KEY</tspan>
+          <tspan text-anchor="middle" x="103" y="149">TRANS</tspan>
         </tspan>
-      </text><text id="R2C0_t_extra" fill="#fff"></text><text id="R1C15_t_primary" fill="#fff">
+      </text><text id="R1C15_t_primary" fill="#fff">
         <tspan>
           <tspan text-anchor="middle" x="915" y="169">NO KEY</tspan>
         </tspan>
