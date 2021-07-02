@@ -1,6 +1,6 @@
 # Raise Ergo
 An ergonomic keyboard layout for the Dygma Raise keyboard, geared towards programming and the
-command line on macOS.
+command line on macOS and Ubuntu.
 
 ## Benefits/Design Principles
 * QWERTY-based for ease of learning.
@@ -24,11 +24,20 @@ command line on macOS.
   * zoom in with <kbd>⌘</kbd><kbd>-</kbd> & out with <kbd>⌘</kbd><kbd>=</kbd>, and
   * type `~` to go to your home dir with <kbd>⇧</kbd><kbd>`</kbd>.
 
-## [Layer 0](layer0.json): Typing for macOS
+## [Layer 0](layer0.json): Typing keys for macOS
 ![layer 0](img/layer0.svg)
 
-## [Layer 1](layer1.json): Editing overlay for macOS
+## [Layer 1](layer1.json): Editing keys for macOS
 ![layer 1](img/layer1.svg)
+
+## [Layer 2](layer2.json): Typing keys for Ubuntu
+![layer 2](img/layer2.svg)
+
+## [Layer 3](layer3.json): Editing keys for Ubuntu
+![layer 3](img/layer3.svg)
+
+## [Layer 4](layer4.json): Editing keys for Ubuntu Terminal
+![layer 4](img/layer4.svg)
 
 ## Author
 © 2020-2021 [Marlon Richert](https://github.com/marlonrichert)

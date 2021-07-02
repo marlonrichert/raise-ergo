@@ -356,9 +356,9 @@
       "extraLabel": "LED"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 17494,
+      "label": "2",
+      "extraLabel": "MOVE"
     }
   ],
   "colormap": [
@@ -423,7 +423,7 @@
     4,
     4,
     4,
-    15,
+    2,
     3,
     15,
     2,
@@ -557,10 +557,10 @@
       "rgb": "rgb(80, 227, 194)"
     },
     {
-      "r": 155,
-      "g": 155,
-      "b": 155,
-      "rgb": "rgb(155, 155, 155)"
+      "r": 245,
+      "g": 166,
+      "b": 35,
+      "rgb": "rgb(245, 166, 35)"
     },
     {
       "r": 0,
