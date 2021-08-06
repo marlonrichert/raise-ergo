@@ -36,9 +36,6 @@ command line on macOS and Ubuntu.
 ## [Layer 3](layer3.json): Editing keys for Ubuntu
 ![layer 3](img/layer3.svg)
 
-## [Layer 4](layer4.json): Editing keys for Ubuntu Terminal
-![layer 4](img/layer4.svg)
-
 ## Author
 © 2020-2021 [Marlon Richert](https://github.com/marlonrichert)
 

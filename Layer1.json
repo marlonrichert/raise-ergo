@@ -73,9 +73,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 280,
-      "label": "U",
-      "extraLabel": "C+"
+      "keyCode": 4138,
+      "label": "BACKSPACE",
+      "extraLabel": "G+"
     },
     {
       "keyCode": 554,
@@ -92,9 +92,9 @@
       "extraLabel": "A+"
     },
     {
-      "keyCode": 270,
-      "label": "K",
-      "extraLabel": "C+"
+      "keyCode": 4172,
+      "label": "DEL",
+      "extraLabel": "G+"
     },
     {
       "keyCode": 0,
@@ -107,9 +107,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 260,
-      "label": "A",
-      "extraLabel": "C+"
+      "keyCode": 4176,
+      "label": "←",
+      "extraLabel": "G+"
     },
     {
       "keyCode": 592,
@@ -126,9 +126,9 @@
       "extraLabel": "A+"
     },
     {
-      "keyCode": 264,
-      "label": "E",
-      "extraLabel": "C+"
+      "keyCode": 4175,
+      "label": "→",
+      "extraLabel": "G+"
     },
     {
       "keyCode": 0,
@@ -152,9 +152,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 4138,
-      "label": "BACKSPACE",
-      "extraLabel": "G+"
+      "keyCode": 280,
+      "label": "U",
+      "extraLabel": "C+"
     },
     {
       "keyCode": 42,
@@ -170,9 +170,9 @@
       "label": "DEL"
     },
     {
-      "keyCode": 4172,
-      "label": "DEL",
-      "extraLabel": "G+"
+      "keyCode": 270,
+      "label": "K",
+      "extraLabel": "C+"
     },
     {
       "keyCode": 0,
@@ -190,9 +190,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 4176,
-      "label": "←",
-      "extraLabel": "G+"
+      "keyCode": 260,
+      "label": "A",
+      "extraLabel": "C+"
     },
     {
       "keyCode": 80,
@@ -207,9 +207,9 @@
       "label": "→"
     },
     {
-      "keyCode": 4175,
-      "label": "→",
-      "extraLabel": "G+"
+      "keyCode": 264,
+      "label": "E",
+      "extraLabel": "C+"
     },
     {
       "keyCode": 65535,

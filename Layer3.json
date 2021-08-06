@@ -73,9 +73,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 2346,
-      "label": "BACKSPACE",
-      "extraLabel": "C+S+"
+      "keyCode": 282,
+      "label": "W",
+      "extraLabel": "C+"
     },
     {
       "keyCode": 298,
@@ -92,9 +92,9 @@
       "extraLabel": "C+"
     },
     {
-      "keyCode": 2380,
-      "label": "DEL",
-      "extraLabel": "C+S+"
+      "keyCode": 775,
+      "label": "D",
+      "extraLabel": "C+A+"
     },
     {
       "keyCode": 0,
@@ -107,9 +107,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 331,
-      "label": "PAGE UP",
-      "extraLabel": "C+"
+      "keyCode": 773,
+      "label": "B",
+      "extraLabel": "C+A+"
     },
     {
       "keyCode": 336,
@@ -126,9 +126,9 @@
       "extraLabel": "C+"
     },
     {
-      "keyCode": 334,
-      "label": "PAGE DOWN",
-      "extraLabel": "C+"
+      "keyCode": 777,
+      "label": "F",
+      "extraLabel": "C+A+"
     },
     {
       "keyCode": 0,
@@ -152,9 +152,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 24576,
-      "label": "0",
-      "extraLabel": "MACRO"
+      "keyCode": 2346,
+      "label": "BACKSPACE",
+      "extraLabel": "C+S+"
     },
     {
       "keyCode": 42,
@@ -170,9 +170,9 @@
       "label": "DEL"
     },
     {
-      "keyCode": 24577,
-      "label": "1",
-      "extraLabel": "MACRO"
+      "keyCode": 2380,
+      "label": "DEL",
+      "extraLabel": "C+S+"
     },
     {
       "keyCode": 0,
@@ -322,9 +322,10 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 17454,
-      "label": "4",
-      "extraLabel": "SHIFTTO"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 0,
@@ -356,9 +357,10 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 17454,
-      "label": "4",
-      "extraLabel": "SHIFTTO"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 65535,
