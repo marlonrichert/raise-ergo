@@ -2,7 +2,8 @@
   "keymap": [
     {
       "keyCode": 0,
-      "label": "NO KEY",
+      "label": "KEY",
+      "extraLabel": "NO",
       "verbose": "Disabled"
     },
     {
@@ -31,12 +32,14 @@
     },
     {
       "keyCode": 0,
-      "label": "NO KEY",
+      "label": "KEY",
+      "extraLabel": "NO",
       "verbose": "Disabled"
     },
     {
       "keyCode": 0,
-      "label": "NO KEY",
+      "label": "KEY",
+      "extraLabel": "NO",
       "verbose": "Disabled"
     },
     {
@@ -74,7 +77,8 @@
     },
     {
       "keyCode": 0,
-      "label": "NO KEY",
+      "label": "KEY",
+      "extraLabel": "NO",
       "verbose": "Disabled"
     },
     {
@@ -99,12 +103,14 @@
     },
     {
       "keyCode": 0,
-      "label": "NO KEY",
+      "label": "KEY",
+      "extraLabel": "NO",
       "verbose": "Disabled"
     },
     {
       "keyCode": 0,
-      "label": "NO KEY",
+      "label": "KEY",
+      "extraLabel": "NO",
       "verbose": "Disabled"
     },
     {
@@ -129,23 +135,26 @@
     },
     {
       "keyCode": 0,
-      "label": "NO KEY",
+      "label": "KEY",
+      "extraLabel": "NO",
       "verbose": "Disabled"
     },
     {
       "keyCode": 71,
-      "label": "SCROLL LOCK",
+      "label": "SCROLL LCK",
       "verbose": "Scroll Lock"
     },
     {
       "keyCode": 0,
-      "label": "NO KEY",
+      "label": "KEY",
+      "extraLabel": "NO",
       "verbose": "Disabled"
     },
     {
-      "keyCode": 283,
-      "label": "X",
-      "extraLabel": "C+"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 4,
@@ -169,17 +178,20 @@
     },
     {
       "keyCode": 0,
-      "label": "NO KEY",
+      "label": "KEY",
+      "extraLabel": "NO",
       "verbose": "Disabled"
     },
     {
       "keyCode": 0,
-      "label": "NO KEY",
+      "label": "KEY",
+      "extraLabel": "NO",
       "verbose": "Disabled"
     },
     {
       "keyCode": 0,
-      "label": "NO KEY",
+      "label": "KEY",
+      "extraLabel": "NO",
       "verbose": "Disabled"
     },
     {
@@ -203,9 +215,10 @@
       "label": ";"
     },
     {
-      "keyCode": 283,
-      "label": "X",
-      "extraLabel": "C+"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 72,
@@ -241,17 +254,20 @@
     },
     {
       "keyCode": 0,
-      "label": "NO KEY",
+      "label": "KEY",
+      "extraLabel": "NO",
       "verbose": "Disabled"
     },
     {
       "keyCode": 0,
-      "label": "NO KEY",
+      "label": "KEY",
+      "extraLabel": "NO",
       "verbose": "Disabled"
     },
     {
       "keyCode": 0,
-      "label": "NO KEY",
+      "label": "KEY",
+      "extraLabel": "NO",
       "verbose": "Disabled"
     },
     {
@@ -276,22 +292,26 @@
     },
     {
       "keyCode": 0,
-      "label": "NO KEY",
+      "label": "KEY",
+      "extraLabel": "NO",
       "verbose": "Disabled"
     },
     {
       "keyCode": 0,
-      "label": "NO KEY",
+      "label": "KEY",
+      "extraLabel": "NO",
       "verbose": "Disabled"
     },
     {
       "keyCode": 0,
-      "label": "NO KEY",
+      "label": "KEY",
+      "extraLabel": "NO",
       "verbose": "Disabled"
     },
     {
       "keyCode": 226,
-      "label": "LEFT ALT",
+      "label": "ALT",
+      "extraLabel": "LEFT",
       "verbose": "Left Alt"
     },
     {
@@ -306,7 +326,8 @@
     },
     {
       "keyCode": 0,
-      "label": "NO KEY",
+      "label": "KEY",
+      "extraLabel": "NO",
       "verbose": "Disabled"
     },
     {
@@ -341,13 +362,14 @@
     },
     {
       "keyCode": 230,
-      "label": "RIGHT ALT",
-      "extraLabel": "",
+      "label": "ALT",
+      "extraLabel": "RIGHT",
       "verbose": "AltGr"
     },
     {
       "keyCode": 0,
-      "label": "NO KEY",
+      "label": "KEY",
+      "extraLabel": "NO",
       "verbose": "Disabled"
     },
     {
@@ -375,7 +397,7 @@
     4,
     4,
     4,
-    2,
+    15,
     4,
     4,
     4,
@@ -411,7 +433,7 @@
     4,
     4,
     7,
-    2,
+    15,
     4,
     4,
     4,
